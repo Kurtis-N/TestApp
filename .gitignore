@@ -23,3 +23,5 @@ gradle/wrapper/gradle-wrapper.properties
 gradlew
 
 gradlew.bat
+
+.idea/vcs.xml
